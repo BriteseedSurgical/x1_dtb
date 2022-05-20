@@ -1,0 +1,1 @@
+{"format": "fffiifffiffffffff", "names": ["dtb_x", "dtb_y", "dtb_z", "dtb_save", "dtb_job_status", "imu_x", "imu_y", "imu_z", "imu_vessel_present", "cv_xS0", "cv_yS0", "cv_xS1", "cv_yS1", "cv_xT0", "cv_yT0", "cv_xT1", "cv_yT1"], "size": 68}

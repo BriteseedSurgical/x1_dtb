@@ -1,0 +1,2115 @@
+2021-07-22 17:24:56,466:ERROR:Could not open port COM8
+2021-07-22 17:24:57,483:INFO:Connected to COM port COM14
+2021-07-26 10:12:03,172:INFO:Connected to COM port /dev/ttyACM0
+2021-07-26 10:12:07,180:INFO:Invalid response from port /dev/ttyACM0: 
+2021-07-26 10:12:08,189:INFO:Connected to COM port /dev/ttyAMA0
+2021-07-26 10:12:11,193:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 10:12:12,194:ERROR:Could not find tool tracker on any port
+2021-07-26 10:12:12,215:INFO:Connected to COM port /dev/ttyACM0
+2021-07-26 10:26:53,333:INFO:Connected to COM port /dev/ttyACM1
+2021-07-26 10:26:55,342:INFO:Invalid response from port /dev/ttyACM1: [R11.092][OPT:V,15,128]
+2021-07-26 10:26:56,358:INFO:Connected to COM port /dev/ttyACM0
+2021-07-26 10:27:00,363:INFO:Invalid response from port /dev/ttyACM0: 
+2021-07-26 10:27:01,365:INFO:Connected to COM port /dev/ttyAMA0
+2021-07-26 10:27:04,369:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 10:27:05,371:ERROR:Could not find tool tracker on any port
+2021-07-26 10:27:05,390:INFO:Connected to COM port /dev/ttyACM1
+2021-07-26 10:27:09,396:INFO:Invalid response from port /dev/ttyACM1: 
+2021-07-26 10:27:10,418:INFO:Connected to COM port /dev/ttyACM0
+2021-07-26 10:27:12,630:INFO:Found tool tracker at port /dev/ttyACM0
+2021-07-26 11:28:53,392:INFO:Connected to COM port /dev/ttyACM1
+2021-07-26 11:28:57,397:INFO:Invalid response from port /dev/ttyACM1: 
+2021-07-26 11:28:58,403:INFO:Connected to COM port /dev/ttyACM0
+2021-07-26 11:29:02,408:INFO:Invalid response from port /dev/ttyACM0: 
+2021-07-26 11:29:02,617:INFO:Received data: REEE OLTCE
+2021-07-26 11:29:03,410:INFO:Connected to COM port /dev/ttyAMA0
+2021-07-26 11:29:06,412:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:29:07,414:ERROR:Could not find tool tracker on any port
+2021-07-26 11:29:07,429:INFO:Connected to COM port /dev/ttyACM1
+2021-07-26 11:29:11,433:INFO:Invalid response from port /dev/ttyACM1: 
+2021-07-26 11:29:12,449:INFO:Connected to COM port /dev/ttyACM0
+2021-07-26 11:29:14,674:INFO:Found tool tracker at port /dev/ttyACM0
+2021-07-26 11:30:58,501:INFO:Connected to COM port /dev/ttyACM1
+2021-07-26 11:31:02,507:INFO:Invalid response from port /dev/ttyACM1: 
+2021-07-26 11:31:03,515:INFO:Connected to COM port /dev/ttyACM0
+2021-07-26 11:31:05,719:INFO:Received data: [RTSE O RKR
+2021-07-26 11:31:07,518:INFO:Invalid response from port /dev/ttyACM0: 
+2021-07-26 11:31:08,521:INFO:Connected to COM port /dev/ttyAMA0
+2021-07-26 11:31:11,525:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:31:12,527:ERROR:Could not find tool tracker on any port
+2021-07-26 11:31:12,540:INFO:Connected to COM port /dev/ttyACM1
+2021-07-26 11:31:16,543:INFO:Invalid response from port /dev/ttyACM1: 
+2021-07-26 11:31:17,550:INFO:Connected to COM port /dev/ttyACM0
+2021-07-26 11:31:19,777:INFO:Invalid response from port /dev/ttyACM0: REE O RKR
+2021-07-26 11:31:20,781:INFO:Connected to COM port /dev/ttyAMA0
+2021-07-26 11:31:23,785:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:31:24,787:ERROR:Could not find tool tracker on any port
+2021-07-26 11:31:24,805:INFO:Connected to COM port /dev/ttyACM1
+2021-07-26 11:31:28,811:INFO:Invalid response from port /dev/ttyACM1: 
+2021-07-26 11:31:29,818:INFO:Connected to COM port /dev/ttyACM0
+2021-07-26 11:31:34,024:INFO:Invalid response from port /dev/ttyACM0: [RTEDOLRCR
+2021-07-26 11:31:35,026:INFO:Connected to COM port /dev/ttyAMA0
+2021-07-26 11:31:38,029:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:31:39,031:ERROR:Could not find tool tracker on any port
+2021-07-26 11:31:39,043:INFO:Connected to COM port /dev/ttyACM1
+2021-07-26 11:31:43,048:INFO:Invalid response from port /dev/ttyACM1: 
+2021-07-26 11:31:44,066:INFO:Connected to COM port /dev/ttyACM0
+2021-07-26 11:31:46,282:INFO:Found tool tracker at port /dev/ttyACM0
+2021-07-26 11:32:29,720:INFO:Connected to COM port /dev/ttyACM1
+2021-07-26 11:32:44,980:INFO:Invalid response from port /dev/ttyACM1: VR.h092:
+2021-07-26 11:32:45,988:INFO:Connected to COM port /dev/ttyACM0
+2021-07-26 11:32:49,993:INFO:Invalid response from port /dev/ttyACM0: 
+2021-07-26 11:32:50,995:INFO:Connected to COM port /dev/ttyAMA0
+2021-07-26 11:32:53,998:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:32:55,000:ERROR:Could not find tool tracker on any port
+2021-07-26 11:32:55,015:INFO:Connected to COM port /dev/ttyACM1
+2021-07-26 11:32:59,020:INFO:Invalid response from port /dev/ttyACM1: 
+2021-07-26 11:33:00,030:INFO:Connected to COM port /dev/ttyACM0
+2021-07-26 11:33:02,238:INFO:Invalid response from port /dev/ttyACM0: BIES O AK]
+2021-07-26 11:33:03,240:INFO:Connected to COM port /dev/ttyAMA0
+2021-07-26 11:33:06,244:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:33:07,245:ERROR:Could not find tool tracker on any port
+2021-07-26 11:33:07,261:INFO:Connected to COM port /dev/ttyACM1
+2021-07-26 11:33:11,266:INFO:Invalid response from port /dev/ttyACM1: 
+2021-07-26 11:33:12,280:INFO:Connected to COM port /dev/ttyACM0
+2021-07-26 11:33:14,512:INFO:Found tool tracker at port /dev/ttyACM0
+2021-07-26 11:34:48,556:INFO:Connected to COM port /dev/ttyACM1
+2021-07-26 11:34:50,606:INFO:Invalid response from port /dev/ttyACM1: <Idle|WPos:0.000,0.000,0.000|FS:0,0|WCO:0.000,0.000,0.000>
+2021-07-26 11:34:51,614:INFO:Connected to COM port /dev/ttyACM0
+2021-07-26 11:34:53,852:INFO:Invalid response from port /dev/ttyACM0: BRIEEDTO RCE]
+2021-07-26 11:34:54,855:INFO:Connected to COM port /dev/ttyAMA0
+2021-07-26 11:34:55,854:INFO:Received data: [TSE OLTAKR
+2021-07-26 11:34:57,859:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:34:58,860:ERROR:Could not find tool tracker on any port
+2021-07-26 11:34:58,873:INFO:Connected to COM port /dev/ttyACM1
+2021-07-26 11:35:02,877:INFO:Invalid response from port /dev/ttyACM1: 
+2021-07-26 11:35:03,887:INFO:Connected to COM port /dev/ttyACM0
+2021-07-26 11:35:06,094:INFO:Found tool tracker at port /dev/ttyACM0
+2021-07-26 11:38:11,991:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:38:13,002:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:38:14,005:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:38:15,007:ERROR:Could not find tool tracker on any port
+2021-07-26 11:38:15,029:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:38:16,040:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:38:17,042:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:38:18,049:ERROR:Could not find tool tracker on any port
+2021-07-26 11:38:18,072:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:38:19,084:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:38:20,086:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:38:21,088:ERROR:Could not find tool tracker on any port
+2021-07-26 11:38:21,112:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:38:22,120:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:38:23,123:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:38:24,125:ERROR:Could not find tool tracker on any port
+2021-07-26 11:38:24,147:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:38:25,158:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:38:26,161:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:38:27,162:ERROR:Could not find tool tracker on any port
+2021-07-26 11:38:27,186:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:38:28,197:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:38:29,200:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:38:30,201:ERROR:Could not find tool tracker on any port
+2021-07-26 11:38:30,225:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:38:31,235:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:38:32,238:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:38:33,240:ERROR:Could not find tool tracker on any port
+2021-07-26 11:38:33,256:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:38:34,261:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:38:35,264:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:38:36,266:ERROR:Could not find tool tracker on any port
+2021-07-26 11:38:36,289:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:38:37,300:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:38:38,303:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:38:39,305:ERROR:Could not find tool tracker on any port
+2021-07-26 11:38:39,326:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:38:40,337:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:38:41,340:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:38:42,342:ERROR:Could not find tool tracker on any port
+2021-07-26 11:38:42,362:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:38:43,371:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:38:44,374:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:38:45,376:ERROR:Could not find tool tracker on any port
+2021-07-26 11:38:45,397:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:38:46,406:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:42:14,457:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:42:15,467:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:42:16,470:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:42:17,472:ERROR:Could not find tool tracker on any port
+2021-07-26 11:42:17,493:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:42:18,502:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:42:19,504:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:42:20,506:ERROR:Could not find tool tracker on any port
+2021-07-26 11:42:20,523:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:42:21,534:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:42:22,537:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:42:23,539:ERROR:Could not find tool tracker on any port
+2021-07-26 11:42:23,561:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:50:13,842:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:50:14,855:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:50:15,863:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:50:16,864:ERROR:Could not find tool tracker on any port
+2021-07-26 11:50:16,887:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:50:17,899:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:50:18,908:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:50:19,910:ERROR:Could not find tool tracker on any port
+2021-07-26 11:50:19,933:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:50:20,939:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:50:21,942:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:50:22,944:ERROR:Could not find tool tracker on any port
+2021-07-26 11:50:22,967:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:50:23,975:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:50:24,981:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:50:25,982:ERROR:Could not find tool tracker on any port
+2021-07-26 11:50:25,992:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:50:27,001:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:50:28,005:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:50:29,007:ERROR:Could not find tool tracker on any port
+2021-07-26 11:50:29,016:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:50:30,025:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:50:31,030:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:50:32,031:ERROR:Could not find tool tracker on any port
+2021-07-26 11:50:32,042:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:50:33,048:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:50:34,054:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:50:35,056:ERROR:Could not find tool tracker on any port
+2021-07-26 11:50:35,065:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:50:36,070:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:50:37,072:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:50:38,073:ERROR:Could not find tool tracker on any port
+2021-07-26 11:50:38,083:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:50:39,089:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:50:40,094:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:50:41,096:ERROR:Could not find tool tracker on any port
+2021-07-26 11:50:41,107:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:50:42,114:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:50:43,118:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:50:44,120:ERROR:Could not find tool tracker on any port
+2021-07-26 11:50:44,131:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:50:45,139:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:50:46,144:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:50:47,145:ERROR:Could not find tool tracker on any port
+2021-07-26 11:50:47,156:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:50:48,162:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:50:49,168:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:50:50,170:ERROR:Could not find tool tracker on any port
+2021-07-26 11:50:50,179:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:50:51,188:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:50:52,193:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:50:53,194:ERROR:Could not find tool tracker on any port
+2021-07-26 11:50:53,204:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:50:54,212:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:50:55,217:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:50:56,219:ERROR:Could not find tool tracker on any port
+2021-07-26 11:50:56,229:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:50:57,236:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:50:58,242:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:50:59,243:ERROR:Could not find tool tracker on any port
+2021-07-26 11:50:59,267:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:51:00,272:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:51:01,274:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:51:02,276:ERROR:Could not find tool tracker on any port
+2021-07-26 11:51:02,299:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:51:03,310:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:51:04,318:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 11:51:05,320:ERROR:Could not find tool tracker on any port
+2021-07-26 11:51:05,342:ERROR:Could not open port /dev/ttyACM1
+2021-07-26 11:51:06,353:ERROR:Could not open port /dev/ttyACM0
+2021-07-26 11:51:07,363:ERROR:Could not open port /dev/ttyAMA0
+2021-07-26 12:10:21,924:INFO:Connected to COM port /dev/ttyACM0
+2021-07-26 12:10:24,140:INFO:Found tool tracker at port /dev/ttyACM0
+2021-07-26 12:10:48,923:INFO:Connected to COM port /dev/ttyACM0
+2021-07-26 12:10:51,137:INFO:Found tool tracker at port /dev/ttyACM0
+2021-07-26 12:11:28,158:INFO:Connected to COM port /dev/ttyACM0
+2021-07-26 12:11:30,370:INFO:Invalid response from port /dev/ttyACM0: BIEEDTO RCE]
+2021-07-26 12:11:31,378:INFO:Connected to COM port /dev/ttyACM0
+2021-07-26 12:11:32,372:INFO:Received data: [RTSE OLTAKR
+2021-07-26 12:11:33,607:INFO:Found tool tracker at port /dev/ttyACM0
+2021-07-26 12:17:22,403:INFO:Connected to COM port /dev/ttyACM0
+2021-07-26 12:17:24,623:INFO:Received data: [RIEEDTO RCE]
+2021-07-26 12:17:26,625:INFO:Invalid response from port /dev/ttyACM0: BTSE OLTAKR
+2021-07-26 12:17:27,648:INFO:Connected to COM port /dev/ttyACM0
+2021-07-26 12:17:29,872:INFO:Found tool tracker at port /dev/ttyACM0
+2021-07-26 12:36:26,379:INFO:Received data: -0.04,-0.28,0.33,0
+2021-07-26 12:36:26,430:INFO:Received data: 0.19,-0.37,0.30,0
+2021-07-26 12:36:26,482:INFO:Received data: -0.06,-0.27,0.30,0
+2021-07-26 12:36:26,533:INFO:Received data: -0.05,-0.38,0.32,0
+2021-07-26 12:36:26,585:INFO:Received data: -0.29,-0.33,0.34,0
+2021-07-26 12:36:26,637:INFO:Received data: -0.08,-0.37,0.32,0
+2021-07-26 12:36:26,689:INFO:Received data: -0.48,-0.53,0.38,0
+2021-07-26 12:36:26,740:INFO:Received data: 0.61,-0.61,0.20,0
+2021-07-26 12:36:26,792:INFO:Received data: 1.14,-0.68,0.03,0
+2021-07-26 12:36:26,843:INFO:Received data: 0.14,-0.40,0.33,0
+2021-07-26 12:36:26,895:INFO:Received data: 0.44,-0.42,0.28,0
+2021-07-26 12:36:26,946:INFO:Received data: 0.34,-0.13,0.29,0
+2021-07-26 12:36:27,000:INFO:Received data: 0.44,-0.12,0.29,0
+2021-07-26 12:36:27,052:INFO:Received data: 0.97,-0.35,0.18,0
+2021-07-26 12:36:27,103:INFO:Received data: 0.97,-0.45,0.14,0
+2021-07-26 12:36:27,155:INFO:Received data: 0.97,-0.45,0.14,0
+2021-07-26 12:36:27,206:INFO:Received data: 0.92,-0.92,0.13,0
+2021-07-26 12:36:27,258:INFO:Received data: 0.85,-1.03,0.11,0
+2021-07-26 12:36:27,309:INFO:Received data: 0.75,-1.19,0.12,0
+2021-07-26 12:36:27,361:INFO:Received data: 0.76,-1.09,0.12,0
+2021-07-26 12:36:27,412:INFO:Received data: 0.75,-1.19,0.09,0
+2021-07-26 12:36:27,464:INFO:Received data: 0.79,-0.81,0.08,0
+2021-07-26 12:36:27,516:INFO:Received data: 1.02,-0.95,0.12,0
+2021-07-26 12:36:27,567:INFO:Received data: 1.21,-0.97,0.13,0
+2021-07-26 12:36:27,619:INFO:Received data: 1.61,-0.80,0.11,0
+2021-07-26 12:36:27,670:INFO:Received data: 2.03,-0.83,0.03,0
+2021-07-26 12:36:27,722:INFO:Received data: 1.88,-0.81,0.06,0
+2021-07-26 12:36:27,773:INFO:Received data: 1.97,-0.54,-0.10,0
+2021-07-26 12:36:27,825:INFO:Received data: 2.22,-0.75,-0.13,0
+2021-07-26 12:36:27,877:INFO:Received data: 2.22,-0.67,-0.14,0
+2021-07-26 12:36:27,929:INFO:Received data: 2.18,-0.56,-0.09,0
+2021-07-26 12:36:27,980:INFO:Received data: 2.17,-0.75,-0.09,0
+2021-07-26 12:36:28,032:INFO:Received data: 2.14,-1.03,-0.10,0
+2021-07-26 12:36:28,083:INFO:Received data: 2.13,-1.13,-0.10,0
+2021-07-26 12:36:28,135:INFO:Received data: 2.10,-1.41,-0.10,0
+2021-07-26 12:36:28,186:INFO:Received data: 2.09,-1.59,-0.09,0
+2021-07-26 12:36:28,238:INFO:Received data: 2.10,-1.50,-0.09,0
+2021-07-26 12:36:28,289:INFO:Received data: 2.10,-1.50,-0.09,0
+2021-07-26 12:36:28,342:INFO:Received data: 2.10,-1.50,-0.09,0
+2021-07-26 12:36:28,393:INFO:Received data: 2.10,-1.41,-0.09,0
+2021-07-26 12:36:28,445:INFO:Received data: 2.07,-1.78,-0.09,0
+2021-07-26 12:36:28,496:INFO:Received data: 2.03,-2.15,-0.09,0
+2021-07-26 12:36:28,548:INFO:Received data: 2.04,-2.06,-0.09,0
+2021-07-26 12:36:28,599:INFO:Received data: 2.01,-2.05,-0.10,0
+2021-07-26 12:36:28,651:INFO:Received data: 1.99,-2.34,-0.13,0
+2021-07-26 12:36:28,703:INFO:Received data: 1.98,-2.43,-0.13,0
+2021-07-26 12:36:28,754:INFO:Received data: 1.97,-2.52,-0.13,0
+2021-07-26 12:36:28,806:INFO:Received data: 1.95,-2.71,-0.13,0
+2021-07-26 12:36:28,857:INFO:Received data: 1.95,-2.71,-0.13,0
+2021-07-26 12:36:28,909:INFO:Received data: 1.97,-2.52,-0.13,0
+2021-07-26 12:36:28,960:INFO:Received data: 1.95,-2.71,-0.13,0
+2021-07-26 12:36:29,012:INFO:Received data: 1.96,-2.62,-0.14,0
+2021-07-26 12:36:29,063:INFO:Received data: 1.98,-2.43,-0.14,0
+2021-07-26 12:36:29,115:INFO:Received data: 1.99,-2.34,-0.14,0
+2021-07-26 12:36:29,166:INFO:Received data: 1.97,-2.53,-0.14,0
+2021-07-26 12:36:29,218:INFO:Received data: 1.98,-2.43,-0.14,0
+2021-07-26 12:36:29,270:INFO:Received data: 1.98,-2.43,-0.14,0
+2021-07-26 12:36:29,321:INFO:Received data: 1.96,-2.62,-0.14,0
+2021-07-26 12:36:29,373:INFO:Received data: 1.96,-2.62,-0.14,0
+2021-07-26 12:36:29,424:INFO:Received data: 1.96,-2.62,-0.14,0
+2021-07-26 12:36:29,476:INFO:Received data: 1.91,-3.18,-0.14,0
+2021-07-26 12:36:29,527:INFO:Received data: 1.93,-2.90,-0.14,0
+2021-07-26 12:36:29,579:INFO:Received data: 1.94,-2.81,-0.14,0
+2021-07-26 12:36:29,631:INFO:Received data: 1.95,-2.71,-0.14,0
+2021-07-26 12:36:29,683:INFO:Received data: 1.95,-2.71,-0.14,0
+2021-07-26 12:36:29,734:INFO:Received data: 1.96,-2.62,-0.14,0
+2021-07-26 12:36:29,786:INFO:Received data: 1.99,-2.34,-0.14,0
+2021-07-26 12:36:29,838:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:36:29,889:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:29,944:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:29,995:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:30,047:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:30,098:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:30,150:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:30,201:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:30,253:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:30,304:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:30,357:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:30,408:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:30,460:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:36:30,511:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:36:30,563:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:36:30,615:INFO:Received data: 2.00,-2.24,-0.14,0
+2021-07-26 12:36:30,666:INFO:Received data: 1.99,-2.34,-0.14,0
+2021-07-26 12:36:30,718:INFO:Received data: 1.98,-2.43,-0.14,0
+2021-07-26 12:36:30,777:INFO:Received data: 1.98,-2.43,-0.14,0
+2021-07-26 12:36:30,828:INFO:Received data: 1.98,-2.43,-0.14,0
+2021-07-26 12:36:30,880:INFO:Received data: 1.98,-2.43,-0.14,0
+2021-07-26 12:36:30,931:INFO:Received data: 2.00,-2.24,-0.14,0
+2021-07-26 12:36:30,983:INFO:Received data: 2.00,-2.24,-0.14,0
+2021-07-26 12:36:31,035:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:36:31,086:INFO:Received data: 2.01,-2.06,-0.14,0
+2021-07-26 12:36:31,138:INFO:Received data: 2.01,-2.06,-0.14,0
+2021-07-26 12:36:31,189:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:31,241:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:31,293:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:31,344:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:31,396:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:31,448:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:31,500:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:31,552:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:31,604:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:31,655:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:31,707:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:31,758:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:31,810:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:31,862:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:31,920:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:31,972:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:32,024:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:32,076:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:32,127:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:32,179:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:32,231:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:32,282:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:32,334:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:32,385:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:36:32,437:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:36:32,500:INFO:Received data: 1.99,-2.34,-0.14,0
+2021-07-26 12:36:32,551:INFO:Received data: 2.01,-2.06,-0.14,0
+2021-07-26 12:36:32,603:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:32,655:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:32,707:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:32,758:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:32,810:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:32,861:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:32,913:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:32,964:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:33,016:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:33,068:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:33,120:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:33,171:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:33,223:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:33,274:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:33,326:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:33,377:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:33,429:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:33,481:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:33,532:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:33,584:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:33,635:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:33,687:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:33,739:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:33,790:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:33,842:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:33,894:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:33,946:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:33,998:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:34,049:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:34,101:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:34,152:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:34,204:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:34,256:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:34,307:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:34,359:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:34,411:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:34,462:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:34,514:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:34,565:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:34,617:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:36:34,668:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:36:34,720:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:36:34,772:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:36:34,824:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:36:34,875:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:36:34,927:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:34,978:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:35,030:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:35,081:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:35,133:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:35,185:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:35,237:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:35,288:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:35,340:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:36:35,391:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:35,443:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:35,495:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:35,546:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:35,598:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:35,649:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:35,701:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:35,752:INFO:Received data: 2.01,-2.06,-0.14,0
+2021-07-26 12:36:35,805:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:36:35,857:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:36:35,908:INFO:Received data: 1.99,-2.34,-0.14,0
+2021-07-26 12:36:35,960:INFO:Received data: 2.01,-2.06,-0.14,0
+2021-07-26 12:36:36,011:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:36,063:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:36,114:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:36,167:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:36,218:INFO:Received data: 2.13,-0.84,-0.14,0
+2021-07-26 12:36:36,270:INFO:Received data: 2.13,-0.84,-0.14,0
+2021-07-26 12:36:36,322:INFO:Received data: 2.14,-0.75,-0.14,0
+2021-07-26 12:36:36,373:INFO:Received data: 2.14,-0.75,-0.14,0
+2021-07-26 12:36:36,425:INFO:Received data: 2.15,-0.65,-0.14,0
+2021-07-26 12:36:36,477:INFO:Received data: 2.15,-0.65,-0.14,0
+2021-07-26 12:36:36,529:INFO:Received data: 2.14,-0.75,-0.14,0
+2021-07-26 12:36:36,580:INFO:Received data: 2.15,-0.65,-0.14,0
+2021-07-26 12:36:36,632:INFO:Received data: 2.13,-0.84,-0.14,0
+2021-07-26 12:36:36,684:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:36:36,735:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:36,787:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:36,838:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:36,890:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:36,941:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:36,993:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:37,045:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:37,097:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:37,149:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:37,200:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:37,252:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:37,303:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:37,355:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:37,407:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:37,460:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:37,512:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:37,563:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:37,615:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:37,666:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:36:37,718:INFO:Received data: 2.14,-0.75,-0.14,0
+2021-07-26 12:36:37,770:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:36:37,821:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:36:37,873:INFO:Received data: 2.14,-0.75,-0.14,0
+2021-07-26 12:36:37,924:INFO:Received data: 2.15,-0.65,-0.14,0
+2021-07-26 12:36:37,976:INFO:Received data: 2.15,-0.65,-0.14,0
+2021-07-26 12:36:38,028:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:36:38,080:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:36:38,138:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:38,191:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:38,243:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:38,295:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:38,346:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:36:38,398:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:38,450:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:38,501:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:38,553:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:38,605:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:38,657:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:38,709:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:38,760:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:38,812:INFO:Received data: 2.01,-2.06,-0.14,0
+2021-07-26 12:36:38,863:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:36:38,915:INFO:Received data: 1.99,-2.34,-0.14,0
+2021-07-26 12:36:38,966:INFO:Received data: 1.99,-2.34,-0.14,0
+2021-07-26 12:36:39,018:INFO:Received data: 2.00,-2.24,-0.14,0
+2021-07-26 12:36:39,070:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:36:39,122:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:36:39,173:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:36:39,225:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:39,276:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:39,328:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:39,380:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:39,431:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:39,483:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:39,535:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:39,586:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:39,638:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:36:39,689:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:36:39,741:INFO:Received data: 2.01,-2.06,-0.14,0
+2021-07-26 12:36:39,792:INFO:Received data: 2.01,-2.06,-0.14,0
+2021-07-26 12:36:39,844:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:36:39,895:INFO:Received data: 2.00,-2.24,-0.14,0
+2021-07-26 12:36:39,947:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:36:39,999:INFO:Received data: 2.01,-2.06,-0.14,0
+2021-07-26 12:36:40,050:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:40,102:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:40,154:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:40,205:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:40,257:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:40,308:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:40,360:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:40,412:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:40,463:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:40,515:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:40,566:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:40,618:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:40,670:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:40,721:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:40,773:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:40,825:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:40,876:INFO:Received data: 2.01,-2.06,-0.14,0
+2021-07-26 12:36:40,928:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:40,980:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:41,032:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:41,084:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:41,135:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:41,187:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:41,238:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:36:41,290:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:36:41,341:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:36:41,393:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:36:41,445:INFO:Received data: 2.14,-0.75,-0.14,0
+2021-07-26 12:36:41,497:INFO:Received data: 2.13,-0.84,-0.14,0
+2021-07-26 12:36:41,548:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:41,600:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:41,652:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:41,703:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:41,755:INFO:Received data: 2.01,-2.06,-0.14,0
+2021-07-26 12:36:41,806:INFO:Received data: 1.99,-2.34,-0.14,0
+2021-07-26 12:36:41,858:INFO:Received data: 1.99,-2.34,-0.14,0
+2021-07-26 12:36:41,910:INFO:Received data: 1.99,-2.34,-0.14,0
+2021-07-26 12:36:41,963:INFO:Received data: 1.99,-2.34,-0.14,0
+2021-07-26 12:36:42,014:INFO:Received data: 1.98,-2.43,-0.14,0
+2021-07-26 12:36:42,066:INFO:Received data: 1.97,-2.53,-0.14,0
+2021-07-26 12:36:42,117:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:42,168:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:42,220:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:42,272:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:42,323:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:42,375:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:42,427:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:42,479:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:42,530:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:42,582:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:42,633:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:42,685:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:42,736:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:42,788:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:42,840:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:42,891:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:42,943:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:42,994:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:43,046:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:43,097:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:43,149:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:43,200:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:43,252:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:43,304:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:43,356:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:43,408:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:43,459:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:43,511:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:43,563:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:43,614:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:43,666:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:43,717:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:43,768:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:43,820:INFO:Received data: 2.01,-2.06,-0.14,0
+2021-07-26 12:36:43,872:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:43,923:INFO:Received data: 2.01,-2.06,-0.14,0
+2021-07-26 12:36:43,975:INFO:Received data: 2.01,-2.06,-0.14,0
+2021-07-26 12:36:44,027:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:44,078:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:44,130:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:44,181:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:44,233:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:44,285:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:44,336:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:44,388:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:44,440:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:44,492:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:44,544:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:44,595:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:44,647:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:44,698:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:44,750:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:44,802:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:44,854:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:44,905:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:44,957:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:45,008:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:45,060:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:45,112:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:45,163:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:45,216:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:45,267:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:45,319:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:45,371:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:45,423:INFO:Received data: 2.01,-2.06,-0.14,0
+2021-07-26 12:36:45,474:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:45,526:INFO:Received data: 2.01,-2.06,-0.14,0
+2021-07-26 12:36:45,577:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:45,629:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:45,681:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:45,733:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:45,785:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:45,836:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:45,888:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:45,939:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:45,991:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:46,042:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:46,094:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:46,146:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:46,199:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:46,251:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:46,302:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:46,354:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:46,405:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:46,457:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:46,509:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:46,560:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:46,612:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:46,664:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:46,715:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:46,767:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:46,818:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:46,870:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:46,921:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:46,973:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:47,025:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:47,077:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:47,129:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:47,181:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:47,232:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:47,284:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:47,335:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:47,387:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:47,439:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:47,491:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:47,542:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:47,594:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:47,646:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:47,697:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:47,749:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:47,801:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:47,852:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:47,904:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:36:47,955:INFO:Received data: 1.99,-2.34,-0.14,0
+2021-07-26 12:36:48,007:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:48,058:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:48,110:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:48,161:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:48,213:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:48,265:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:48,317:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:48,368:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:48,420:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:48,472:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:48,523:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:36:48,575:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:48,626:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:48,678:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:48,729:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:48,781:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:48,833:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:48,885:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:48,936:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:48,988:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:49,039:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:49,091:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:49,142:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:49,194:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:49,246:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:49,298:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:36:49,349:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:36:49,401:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:36:49,452:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:36:49,504:INFO:Received data: 2.13,-0.84,-0.14,0
+2021-07-26 12:36:49,555:INFO:Received data: 2.13,-0.84,-0.14,0
+2021-07-26 12:36:49,607:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:36:49,659:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:49,710:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:49,762:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:49,813:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:49,865:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:49,916:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:49,968:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:50,020:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:36:50,072:INFO:Received data: 2.00,-2.24,-0.14,0
+2021-07-26 12:36:50,124:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:36:50,176:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:36:50,227:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:36:50,279:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:50,331:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:50,383:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:50,435:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:50,486:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:50,548:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:50,600:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:50,652:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:50,704:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:50,755:INFO:Received data: 2.01,-2.06,-0.14,0
+2021-07-26 12:36:50,807:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:50,858:INFO:Received data: 2.01,-2.06,-0.14,0
+2021-07-26 12:36:50,910:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:36:50,962:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:51,013:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:51,065:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:51,117:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:51,169:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:51,220:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:51,272:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:51,324:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:51,375:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:51,427:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:51,479:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:51,530:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:51,582:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:51,633:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:51,685:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:51,737:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:51,788:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:51,840:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:51,891:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:36:51,943:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:51,995:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:52,047:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:36:52,099:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:52,150:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:52,202:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:52,253:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:52,305:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:52,357:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:52,408:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:52,460:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:52,512:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:52,563:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:52,615:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:52,666:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:52,718:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:52,769:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:52,821:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:52,880:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:52,932:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:52,984:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:53,036:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:53,088:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:36:53,139:INFO:Received data: 2.14,-0.75,-0.14,0
+2021-07-26 12:36:53,191:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:36:53,249:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:36:53,300:INFO:Received data: 2.14,-0.75,-0.14,0
+2021-07-26 12:36:53,352:INFO:Received data: 2.14,-0.75,-0.14,0
+2021-07-26 12:36:53,404:INFO:Received data: 2.16,-0.56,-0.14,0
+2021-07-26 12:36:53,455:INFO:Received data: 2.15,-0.65,-0.14,0
+2021-07-26 12:36:53,507:INFO:Received data: 2.15,-0.65,-0.14,0
+2021-07-26 12:36:53,559:INFO:Received data: 2.16,-0.56,-0.14,0
+2021-07-26 12:36:53,610:INFO:Received data: 2.14,-0.75,-0.14,0
+2021-07-26 12:36:53,662:INFO:Received data: 2.14,-0.75,-0.14,0
+2021-07-26 12:36:53,719:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:36:53,771:INFO:Received data: 2.13,-0.84,-0.14,0
+2021-07-26 12:36:53,822:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:36:53,874:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:53,929:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:53,981:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:54,032:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:54,084:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:54,136:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:54,187:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:54,239:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:54,290:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:54,342:INFO:Received data: 2.01,-2.06,-0.14,0
+2021-07-26 12:36:54,393:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:54,445:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:54,497:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:54,549:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:36:54,601:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:54,652:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:54,704:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:54,755:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:54,807:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:54,859:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:36:54,911:INFO:Received data: 2.16,-0.56,-0.14,0
+2021-07-26 12:36:54,970:INFO:Received data: 2.15,-0.65,-0.14,0
+2021-07-26 12:36:55,022:INFO:Received data: 2.17,-0.47,-0.14,0
+2021-07-26 12:36:55,073:INFO:Received data: 2.17,-0.47,-0.14,0
+2021-07-26 12:36:55,125:INFO:Received data: 2.17,-0.37,-0.14,0
+2021-07-26 12:36:55,176:INFO:Received data: 2.18,-0.28,-0.14,0
+2021-07-26 12:36:55,228:INFO:Received data: 2.19,-0.18,-0.14,0
+2021-07-26 12:36:55,280:INFO:Received data: 2.17,-0.37,-0.14,0
+2021-07-26 12:36:55,331:INFO:Received data: 2.17,-0.37,-0.14,0
+2021-07-26 12:36:55,383:INFO:Received data: 2.17,-0.37,-0.14,0
+2021-07-26 12:36:55,435:INFO:Received data: 2.15,-0.65,-0.14,0
+2021-07-26 12:36:55,487:INFO:Received data: 2.13,-0.84,-0.14,0
+2021-07-26 12:36:55,539:INFO:Received data: 2.14,-0.75,-0.14,0
+2021-07-26 12:36:55,590:INFO:Received data: 2.13,-0.84,-0.14,0
+2021-07-26 12:36:55,642:INFO:Received data: 2.13,-0.84,-0.14,0
+2021-07-26 12:36:55,693:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:36:55,745:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:55,796:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:55,848:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:55,900:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:55,951:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:56,003:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:56,054:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:56,106:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:56,157:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:56,209:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:36:56,260:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:36:56,312:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:56,363:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:56,415:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:36:56,467:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:56,519:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:56,571:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:36:56,622:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:56,674:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:56,725:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:56,777:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:56,829:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:56,881:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:56,933:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:56,985:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:57,036:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:57,089:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:57,141:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:57,192:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:57,244:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:57,295:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:57,347:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:57,399:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:57,451:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:57,502:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:57,554:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:57,606:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:57,657:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:36:57,709:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:57,760:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:57,812:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:57,863:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:57,916:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:57,968:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:58,020:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:58,071:INFO:Received data: 2.13,-0.84,-0.14,0
+2021-07-26 12:36:58,123:INFO:Received data: 2.14,-0.75,-0.14,0
+2021-07-26 12:36:58,174:INFO:Received data: 2.14,-0.75,-0.14,0
+2021-07-26 12:36:58,226:INFO:Received data: 2.13,-0.84,-0.14,0
+2021-07-26 12:36:58,278:INFO:Received data: 2.13,-0.84,-0.14,0
+2021-07-26 12:36:58,329:INFO:Received data: 2.13,-0.84,-0.14,0
+2021-07-26 12:36:58,381:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:58,432:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:58,484:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:58,536:INFO:Received data: 2.13,-0.84,-0.14,0
+2021-07-26 12:36:58,587:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:58,639:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:58,690:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:58,742:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:58,793:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:36:58,845:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:58,896:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:58,948:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:59,000:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:59,051:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:59,103:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:36:59,159:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:36:59,210:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:36:59,262:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:59,313:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:36:59,365:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:36:59,416:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:59,468:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:36:59,519:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:36:59,571:INFO:Received data: 2.13,-0.84,-0.14,0
+2021-07-26 12:36:59,622:INFO:Received data: 2.13,-0.84,-0.14,0
+2021-07-26 12:36:59,674:INFO:Received data: 2.13,-0.84,-0.14,0
+2021-07-26 12:36:59,726:INFO:Received data: 2.14,-0.75,-0.14,0
+2021-07-26 12:36:59,777:INFO:Received data: 2.17,-0.47,-0.14,0
+2021-07-26 12:36:59,829:INFO:Received data: 2.14,-0.75,-0.14,0
+2021-07-26 12:36:59,881:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:36:59,932:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:36:59,984:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:37:00,035:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:37:00,087:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:37:00,139:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:37:00,191:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:37:00,243:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:37:00,294:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:37:00,346:INFO:Received data: 2.09,-2.01,-2.06,-0.14,0
+2021-07-26 12:37:00,397:INFO:Received data: 2.01,-2.06,-0.14,0
+2021-07-26 12:37:00,449:INFO:Received data: 2.00,-2.24,-0.14,0
+2021-07-26 12:37:00,501:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:37:00,552:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:37:00,605:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:37:00,657:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:37:00,708:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:37:00,760:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:37:00,811:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:37:00,863:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:37:00,918:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:37:00,970:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:37:01,024:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:37:01,076:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:37:01,128:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:37:01,179:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:37:01,231:INFO:Received data: 2.17,-0.47,-0.14,0
+2021-07-26 12:37:01,282:INFO:Received data: 2.17,-0.47,-0.14,0
+2021-07-26 12:37:01,334:INFO:Received data: 2.16,-0.56,-0.14,0
+2021-07-26 12:37:01,393:INFO:Received data: 2.17,-0.47,-0.14,0
+2021-07-26 12:37:01,445:INFO:Received data: 2.17,-0.47,-0.14,0
+2021-07-26 12:37:01,497:INFO:Received data: 2.18,-0.28,-0.14,0
+2021-07-26 12:37:01,550:INFO:Received data: 2.18,-0.28,-0.14,0
+2021-07-26 12:37:01,602:INFO:Received data: 2.16,-0.56,-0.14,0
+2021-07-26 12:37:01,654:INFO:Received data: 2.17,-0.37,-0.14,0
+2021-07-26 12:37:01,706:INFO:Received data: 2.17,-0.47,-0.14,0
+2021-07-26 12:37:01,757:INFO:Received data: 2.17,-0.47,-0.14,0
+2021-07-26 12:37:01,809:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:37:01,861:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:37:01,913:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:37:01,965:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:37:02,017:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:37:02,069:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:37:02,121:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:37:02,173:INFO:Received data: 2.13,-0.84,-0.14,0
+2021-07-26 12:37:02,224:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:37:02,276:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:37:02,328:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:37:02,379:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:37:02,431:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:37:02,483:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:37:02,534:INFO:Received data: 2.13,-0.84,-0.14,0
+2021-07-26 12:37:02,587:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:37:02,639:INFO:Received data: 2.13,-0.84,-0.14,0
+2021-07-26 12:37:02,690:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:37:02,742:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:37:02,793:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:37:02,845:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:37:02,897:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:37:02,950:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:37:03,002:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:37:03,054:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:37:03,105:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:37:03,157:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:37:03,209:INFO:Received data: 2.01,-2.06,-0.14,0
+2021-07-26 12:37:03,261:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:37:03,313:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:37:03,364:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:37:03,418:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:37:03,470:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:37:03,522:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:37:03,574:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:37:03,626:INFO:Received data: 2.00,-2.24,-0.14,0
+2021-07-26 12:37:03,677:INFO:Received data: 2.01,-2.06,-0.14,0
+2021-07-26 12:37:03,729:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:37:03,780:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:37:03,832:INFO:Received data: 1.99,-2.34,-0.14,0
+2021-07-26 12:37:03,885:INFO:Received data: 2.00,-2.24,-0.14,0
+2021-07-26 12:37:03,937:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:37:03,989:INFO:Received data: 1.99,-2.34,-0.14,0
+2021-07-26 12:37:04,040:INFO:Received data: 1.96,-2.62,-0.14,0
+2021-07-26 12:37:04,092:INFO:Received data: 1.98,-2.43,-0.14,0
+2021-07-26 12:37:04,144:INFO:Received data: 1.98,-2.43,-0.14,0
+2021-07-26 12:37:04,196:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:37:04,248:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:37:04,300:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:37:04,351:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:37:04,403:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:37:04,455:INFO:Received data: 2.00,-2.24,-0.14,0
+2021-07-26 12:37:04,506:INFO:Received data: 2.01,-2.06,-0.14,0
+2021-07-26 12:37:04,558:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:37:04,610:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:37:04,662:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:37:04,714:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:37:04,766:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:37:04,819:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:37:04,870:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:37:04,922:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:37:04,974:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:37:05,026:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:37:05,077:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:37:05,129:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:37:05,181:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:37:05,233:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:37:05,285:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:37:05,337:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:37:05,389:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:37:05,440:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:37:05,494:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:37:05,546:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:37:05,597:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:37:05,650:INFO:Received data: 2.01,-2.06,-0.14,0
+2021-07-26 12:37:05,702:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:37:05,754:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:37:05,805:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:37:05,857:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:37:05,909:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:37:05,961:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:37:06,012:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:37:06,064:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:37:06,115:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:37:06,168:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:37:06,220:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:37:06,272:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:37:06,324:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:37:06,375:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:37:06,427:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:37:06,478:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:37:06,530:INFO:Received data: 2.12,-0.93,-0.14,0
+2021-07-26 12:37:06,582:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:37:06,634:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:37:06,686:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:37:06,738:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:37:06,790:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:37:06,842:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:37:06,894:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:37:06,945:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:37:06,997:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:37:07,048:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:37:07,100:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:37:07,152:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:37:07,204:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:37:07,256:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:37:07,308:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:37:07,359:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:37:07,411:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:37:07,462:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:37:07,514:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:37:07,566:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:37:07,618:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:37:07,671:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:37:07,723:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:37:07,775:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:37:07,826:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:37:07,878:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:37:07,929:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:37:07,981:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:37:08,033:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:37:08,086:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:37:08,138:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:37:08,189:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:37:08,241:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:37:08,293:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:37:08,344:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:37:08,396:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:37:08,448:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:37:08,500:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:37:08,553:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:37:08,604:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:37:08,656:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:37:08,708:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:37:08,759:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:37:08,811:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:37:08,862:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:37:08,914:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:37:08,966:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:37:09,018:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:37:09,070:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:37:09,122:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:37:09,174:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:37:09,225:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:37:09,277:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:37:09,329:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:37:09,380:INFO:Received data: 2.02,-1.96,-0.14,0
+2021-07-26 12:37:09,432:INFO:Received data: 2.01,-2.06,-0.14,0
+2021-07-26 12:37:09,483:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:37:09,535:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:37:09,587:INFO:Received data: 2.01,-2.15,-0.14,0
+2021-07-26 12:37:09,639:INFO:Received data: 2.01,-2.06,-0.14,0
+2021-07-26 12:37:09,691:INFO:Received data: 2.04,-1.78,-0.14,0
+2021-07-26 12:37:09,742:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:37:09,794:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:37:09,846:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:37:09,897:INFO:Received data: 2.03,-1.87,-0.14,0
+2021-07-26 12:37:09,949:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:37:10,002:INFO:Received data: 2.05,-1.68,-0.14,0
+2021-07-26 12:37:10,055:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:37:10,107:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:37:10,159:INFO:Received data: 2.14,-0.75,-0.14,0
+2021-07-26 12:37:10,210:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:37:10,262:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:37:10,313:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:37:10,365:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:37:10,417:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:37:10,469:INFO:Received data: 2.09,-1.21,-0.14,0
+2021-07-26 12:37:10,522:INFO:Received data: 2.10,-1.12,-0.14,0
+2021-07-26 12:37:10,574:INFO:Received data: 2.11,-1.03,-0.14,0
+2021-07-26 12:37:10,627:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:37:10,678:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:37:10,730:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:37:10,782:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:37:10,834:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:37:10,885:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:37:10,937:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:37:10,988:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:37:11,040:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:37:11,092:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:37:11,143:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:37:11,195:INFO:Received data: 2.09,-1.31,-0.14,0
+2021-07-26 12:37:11,246:INFO:Received data: 2.07,-1.50,-0.14,0
+2021-07-26 12:37:11,298:INFO:Received data: 2.08,-1.40,-0.14,0
+2021-07-26 12:37:11,350:INFO:Received data: 2.06,-1.59,-0.14,0
+2021-07-26 12:37:11,401:INFO:Received data: 1.92,-1.49,-0.17,0
+2021-07-26 12:37:11,453:INFO:Received data: 1.76,-1.47,-0.18,0
+2021-07-26 12:37:11,505:INFO:Received data: 1.77,-1.38,-0.18,0
+2021-07-26 12:37:11,557:INFO:Received data: 1.86,-1.38,-0.16,0
+2021-07-26 12:37:11,608:INFO:Received data: 1.92,-1.30,-0.16,0
+2021-07-26 12:37:11,660:INFO:Received data: 2.02,-1.49,-0.15,0
+2021-07-26 12:37:11,720:INFO:Received data: 1.91,-1.40,-0.15,0
+2021-07-26 12:37:11,772:INFO:Received data: 1.57,-1.56,-0.15,0
+2021-07-26 12:37:11,824:INFO:Received data: 1.15,-1.52,-0.04,0
+2021-07-26 12:37:11,877:INFO:Received data: 1.05,-1.58,0.03,0
+2021-07-26 12:37:11,928:INFO:Received data: 1.07,-1.69,-0.01,0
+2021-07-26 12:37:11,980:INFO:Received data: 1.06,-1.78,-0.01,0
+2021-07-26 12:37:12,031:INFO:Received data: 1.34,-1.99,-0.04,0
+2021-07-26 12:37:12,083:INFO:Received data: 1.67,-2.03,-0.19,0
+2021-07-26 12:37:12,134:INFO:Received data: 1.67,-2.03,-0.20,0
+2021-07-26 12:37:12,186:INFO:Received data: 2.04,-2.07,-0.18,0
+2021-07-26 12:37:12,238:INFO:Received data: 1.99,-1.87,-0.15,0
+2021-07-26 12:37:12,289:INFO:Received data: 1.80,-1.94,-0.14,0
+2021-07-26 12:37:12,341:INFO:Received data: 2.01,-2.07,-0.18,0
+2021-07-26 12:37:12,393:INFO:Received data: 2.10,-1.78,-0.20,0
+2021-07-26 15:15:46,728:INFO:Connected to COM port /dev/ttyACM0
+2021-07-26 15:15:48,960:INFO:Found tool tracker at port /dev/ttyACM0
+2021-07-26 15:17:45,575:INFO:Received data: 3.13,-0.05,0.57,0
+2021-07-26 15:17:45,628:INFO:Received data: 3.09,0.14,0.64,0
+2021-07-26 15:17:45,681:INFO:Received data: 3.10,0.04,0.45,0
+2021-07-26 15:17:45,733:INFO:Received data: 3.12,0.04,0.41,0
+2021-07-26 15:17:45,785:INFO:Received data: 2.96,0.04,-0.08,0
+2021-07-26 15:17:45,837:INFO:Received data: 2.87,0.01,-0.59,0
+2021-07-26 15:17:45,889:INFO:Received data: 2.87,-0.07,-0.73,0
+2021-07-26 15:17:45,941:INFO:Received data: 2.92,-0.34,-0.69,0
+2021-07-26 15:17:45,993:INFO:Received data: 2.92,-0.45,-0.79,0
+2021-07-26 15:17:46,045:INFO:Received data: 2.95,-0.53,-0.69,0
+2021-07-26 15:17:46,097:INFO:Received data: 3.00,-0.90,-0.69,0
+2021-07-26 15:17:46,149:INFO:Received data: 3.00,-0.90,-0.69,0
+2021-07-26 15:17:46,201:INFO:Received data: 3.03,-1.09,-0.69,0
+2021-07-26 15:17:46,253:INFO:Received data: 3.04,-1.11,-0.69,0
+2021-07-26 15:17:46,304:INFO:Received data: 3.05,-1.11,-0.69,0
+2021-07-26 15:17:46,356:INFO:Received data: 3.01,-0.99,-0.69,0
+2021-07-26 15:17:46,407:INFO:Received data: 2.98,-0.81,-0.69,0
+2021-07-26 15:17:46,460:INFO:Received data: 2.99,-0.81,-0.69,0
+2021-07-26 15:17:46,512:INFO:Received data: 2.98,-0.72,-0.69,0
+2021-07-26 15:17:46,563:INFO:Received data: 2.95,-0.53,-0.69,0
+2021-07-26 15:17:46,615:INFO:Received data: 2.93,-0.44,-0.69,0
+2021-07-26 15:17:46,667:INFO:Received data: 2.95,-0.53,-0.69,0
+2021-07-26 15:17:46,719:INFO:Received data: 2.96,-0.62,-0.69,0
+2021-07-26 15:17:46,771:INFO:Received data: 2.96,-0.62,-0.69,0
+2021-07-26 15:17:46,823:INFO:Received data: 2.96,-0.62,-0.69,0
+2021-07-26 15:17:46,875:INFO:Received data: 2.96,-0.62,-0.69,0
+2021-07-26 15:17:46,927:INFO:Received data: 2.99,-0.81,-0.69,0
+2021-07-26 15:17:46,979:INFO:Received data: 3.04,-1.09,-0.69,0
+2021-07-26 15:17:47,031:INFO:Received data: 3.01,-0.90,-0.69,0
+2021-07-26 15:17:47,083:INFO:Received data: 2.98,-0.72,-0.69,0
+2021-07-26 15:17:47,135:INFO:Received data: 2.98,-0.72,-0.69,0
+2021-07-26 15:17:47,186:INFO:Received data: 2.93,-0.44,-0.69,0
+2021-07-26 15:17:47,239:INFO:Received data: 2.88,-0.16,-0.69,0
+2021-07-26 15:17:47,292:INFO:Received data: 2.87,-0.07,-0.69,0
+2021-07-26 15:17:47,345:INFO:Received data: 2.87,-0.07,-0.69,0
+2021-07-26 15:17:47,398:INFO:Received data: 2.92,-0.34,-0.69,0
+2021-07-26 15:17:47,450:INFO:Received data: 2.92,-0.34,-0.69,0
+2021-07-26 15:17:47,503:INFO:Received data: 2.90,-0.25,-0.69,0
+2021-07-26 15:17:47,556:INFO:Received data: 2.87,-0.07,-0.69,0
+2021-07-26 15:17:47,608:INFO:Received data: 2.87,-0.06,-0.69,0
+2021-07-26 15:17:47,661:INFO:Received data: 2.87,-0.06,-0.69,0
+2021-07-26 15:17:47,713:INFO:Received data: 2.91,-0.25,-0.69,0
+2021-07-26 15:17:47,766:INFO:Received data: 2.95,-0.53,-0.69,0
+2021-07-26 15:17:47,819:INFO:Received data: 2.99,-0.71,-0.69,0
+2021-07-26 15:17:47,870:INFO:Received data: 3.00,-0.83,-0.62,0
+2021-07-26 15:17:47,922:INFO:Received data: 3.07,-0.80,-0.30,0
+2021-07-26 17:17:06,793:INFO:Connected to COM port /dev/ttyACM0
+2021-07-26 17:17:09,014:INFO:Found tool tracker at port /dev/ttyACM0
+2021-07-26 17:37:44,920:INFO:Connected to COM port /dev/ttyACM0
+2021-07-26 17:37:47,162:INFO:Found tool tracker at port /dev/ttyACM0
+2021-07-27 17:41:18,515:INFO:Connected to COM port /dev/ttyACM0
+2021-07-27 17:41:20,732:INFO:Found tool tracker at port /dev/ttyACM0
+2021-07-28 10:03:33,856:INFO:Connected to COM port /dev/ttyACM0
+2021-07-28 10:03:36,098:INFO:Found tool tracker at port /dev/ttyACM0
+2021-07-28 12:43:43,126:INFO:Connected to COM port /dev/ttyACM0
+2021-07-28 12:43:45,366:ERROR:Error in serial communication: read failed: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+2021-07-28 12:43:45,366:INFO:Invalid response from port /dev/ttyACM0: BIEEDTO RCE]
+2021-07-28 12:43:45,387:INFO:Connected to COM port /dev/ttyACM0
+2021-07-28 12:43:46,375:INFO:Connected to COM port /dev/ttyACM0
+2021-07-28 12:43:47,611:INFO:Found tool tracker at port /dev/ttyACM0
+2021-07-28 12:43:48,625:INFO:Invalid response from port /dev/ttyACM0: BIEEDTO RCE]
+2021-07-28 12:43:49,632:INFO:Connected to COM port /dev/ttyACM0
+2021-07-28 12:43:50,627:INFO:Received data: [RTSE OLTAKR
+2021-07-28 12:43:51,863:INFO:Found tool tracker at port /dev/ttyACM0
+2021-07-28 12:45:51,956:INFO:Connected to COM port /dev/ttyACM0
+2021-07-28 12:45:54,169:INFO:Invalid response from port /dev/ttyACM0: [RTSE TO RCE]
+2021-07-28 12:45:55,177:INFO:Connected to COM port /dev/ttyACM0
+2021-07-28 12:45:56,171:INFO:Received data: BIEEDOLTAKR
+2021-07-28 12:45:57,407:INFO:Found tool tracker at port /dev/ttyACM0
+2021-07-28 17:27:34,895:INFO:Connected to COM port /dev/ttyACM0
+2021-07-28 17:27:37,107:INFO:Found tool tracker at port /dev/ttyACM0
+2021-07-29 17:13:33,474:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:13:35,718:INFO:Found tool tracker at port /dev/ttyACM0
+2021-07-29 17:15:43,847:INFO:Received data: 0.89,-0.09,0.02,0
+2021-07-29 17:15:43,893:INFO:Received data: 0.47,-0.09,-0.03,0
+2021-07-29 17:15:43,938:INFO:Received data: 0.49,-0.15,-0.03,0
+2021-07-29 17:15:43,984:INFO:Received data: 0.58,-0.14,-0.02,0
+2021-07-29 17:15:44,030:INFO:Received data: 0.71,0.05,-0.07,0
+2021-07-29 17:15:44,075:INFO:Received data: 0.64,-0.21,0.03,0
+2021-07-29 17:15:44,121:INFO:Received data: 0.23,-0.44,0.02,0
+2021-07-29 17:15:44,168:INFO:Received data: 0.54,-0.19,0.01,0
+2021-07-29 17:15:44,213:INFO:Received data: 0.30,-0.38,0.01,0
+2021-07-29 17:15:44,260:INFO:Received data: 0.22,-0.42,0.01,0
+2021-07-29 17:15:44,305:INFO:Received data: 0.48,-0.32,0.03,0
+2021-07-29 17:15:44,352:INFO:Received data: 0.48,-0.32,0.02,0
+2021-07-29 17:15:44,398:INFO:Received data: 0.74,-0.20,0.04,0
+2021-07-29 17:15:44,443:INFO:Received data: 0.58,-0.31,0.04,0
+2021-07-29 17:15:44,490:INFO:Received data: 0.58,-0.31,0.03,0
+2021-07-29 17:15:44,535:INFO:Received data: 0.41,-0.39,0.03,0
+2021-07-29 17:15:44,582:INFO:Received data: 0.58,-0.31,0.03,0
+2021-07-29 17:15:44,627:INFO:Received data: 0.83,-0.19,0.04,0
+2021-07-29 17:15:44,673:INFO:Received data: 0.75,-0.23,0.03,0
+2021-07-29 17:15:44,720:INFO:Received data: 0.83,-0.19,0.03,0
+2021-07-29 17:15:44,765:INFO:Received data: 0.83,-0.19,0.03,0
+2021-07-29 17:15:44,812:INFO:Received data: 0.83,-0.19,0.03,0
+2021-07-29 17:15:44,857:INFO:Received data: 0.83,-0.19,0.03,0
+2021-07-29 17:15:44,903:INFO:Received data: 0.32,-0.43,0.03,0
+2021-07-29 17:15:44,950:INFO:Received data: 0.32,-0.43,0.04,0
+2021-07-29 17:15:44,996:INFO:Received data: 0.24,-0.48,0.03,0
+2021-07-29 17:15:45,042:INFO:Received data: 0.58,-0.31,0.04,0
+2021-07-29 17:15:45,088:INFO:Received data: 0.40,-0.37,0.02,0
+2021-07-29 17:18:55,650:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:18:57,864:INFO:Found tool tracker at port /dev/ttyACM0
+2021-07-29 17:21:10,390:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:21:14,398:INFO:Invalid response from port /dev/ttyACM0: 
+2021-07-29 17:21:15,422:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:21:19,427:INFO:Invalid response from port /dev/ttyACM0: 
+2021-07-29 17:21:20,443:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:21:23,445:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:21:24,447:ERROR:Could not find tool tracker on any port
+2021-07-29 17:21:24,454:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:21:27,458:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:21:28,460:ERROR:Could not find tool tracker on any port
+2021-07-29 17:21:28,467:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:21:31,471:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:21:32,473:ERROR:Could not find tool tracker on any port
+2021-07-29 17:21:32,479:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:21:35,483:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:21:36,485:ERROR:Could not find tool tracker on any port
+2021-07-29 17:21:36,492:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:21:52,721:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:21:53,729:ERROR:Could not find tool tracker on any port
+2021-07-29 17:21:53,735:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:21:56,740:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:21:57,742:ERROR:Could not find tool tracker on any port
+2021-07-29 17:21:57,748:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:22:00,752:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:22:01,754:ERROR:Could not find tool tracker on any port
+2021-07-29 17:22:01,760:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:22:04,765:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:22:05,767:ERROR:Could not find tool tracker on any port
+2021-07-29 17:22:05,773:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:22:08,777:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:22:09,779:ERROR:Could not find tool tracker on any port
+2021-07-29 17:22:09,785:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:22:12,790:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:22:13,792:ERROR:Could not find tool tracker on any port
+2021-07-29 17:22:13,798:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:22:16,801:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:22:17,802:ERROR:Could not find tool tracker on any port
+2021-07-29 17:22:17,809:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:22:20,813:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:22:21,815:ERROR:Could not find tool tracker on any port
+2021-07-29 17:22:21,821:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:22:24,824:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:22:25,826:ERROR:Could not find tool tracker on any port
+2021-07-29 17:22:25,832:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:22:28,836:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:22:29,838:ERROR:Could not find tool tracker on any port
+2021-07-29 17:22:29,844:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:22:32,849:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:22:33,851:ERROR:Could not find tool tracker on any port
+2021-07-29 17:22:33,857:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:22:36,861:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:22:37,863:ERROR:Could not find tool tracker on any port
+2021-07-29 17:22:37,870:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:22:40,873:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:22:41,875:ERROR:Could not find tool tracker on any port
+2021-07-29 17:22:41,882:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:22:44,885:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:22:45,887:ERROR:Could not find tool tracker on any port
+2021-07-29 17:22:45,893:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:22:48,896:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:22:49,897:ERROR:Could not find tool tracker on any port
+2021-07-29 17:22:49,903:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:22:52,906:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:22:53,908:ERROR:Could not find tool tracker on any port
+2021-07-29 17:22:53,914:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:22:56,917:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:22:57,919:ERROR:Could not find tool tracker on any port
+2021-07-29 17:22:57,924:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:00,927:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:01,929:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:01,935:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:04,938:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:05,940:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:05,946:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:06,192:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:08,949:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:09,194:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:09,950:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:09,956:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:10,196:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:10,202:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:12,959:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:13,205:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:13,960:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:13,965:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:14,206:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:14,213:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:16,967:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:17,216:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:17,969:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:17,973:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:18,217:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:18,223:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:20,976:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:21,226:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:21,977:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:21,982:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:22,227:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:22,236:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:24,983:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:25,239:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:25,984:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:25,990:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:26,241:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:26,246:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:28,993:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:29,249:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:29,994:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:29,999:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:30,250:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:30,257:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:33,001:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:33,260:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:34,003:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:34,007:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:34,262:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:34,268:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:37,010:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:37,271:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:38,013:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:38,018:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:38,272:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:38,278:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:41,020:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:41,281:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:42,022:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:42,026:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:42,282:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:42,288:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:45,029:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:45,291:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:46,031:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:46,037:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:46,293:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:46,299:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:49,040:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:49,302:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:50,041:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:50,047:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:50,304:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:50,310:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:53,049:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:53,313:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:54,051:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:54,056:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:54,314:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:54,320:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:57,059:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:57,323:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:23:58,061:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:58,066:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:23:58,325:ERROR:Could not find tool tracker on any port
+2021-07-29 17:23:58,331:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:24:01,069:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:24:01,333:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:24:02,070:ERROR:Could not find tool tracker on any port
+2021-07-29 17:24:02,075:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:24:02,335:ERROR:Could not find tool tracker on any port
+2021-07-29 17:24:02,341:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:24:05,078:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:24:05,344:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:24:06,079:ERROR:Could not find tool tracker on any port
+2021-07-29 17:24:06,086:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:24:06,346:ERROR:Could not find tool tracker on any port
+2021-07-29 17:24:06,352:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:24:09,088:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:24:09,355:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:24:10,090:ERROR:Could not find tool tracker on any port
+2021-07-29 17:24:10,094:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:24:10,356:ERROR:Could not find tool tracker on any port
+2021-07-29 17:24:10,362:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:24:13,097:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:24:13,365:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:24:14,098:ERROR:Could not find tool tracker on any port
+2021-07-29 17:24:14,103:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:24:14,367:ERROR:Could not find tool tracker on any port
+2021-07-29 17:24:14,373:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:24:17,104:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:24:18,106:ERROR:Could not find tool tracker on any port
+2021-07-29 17:24:18,111:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:24:21,113:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:24:22,114:ERROR:Could not find tool tracker on any port
+2021-07-29 17:24:22,120:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:24:55,124:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:24:58,128:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:24:59,130:ERROR:Could not find tool tracker on any port
+2021-07-29 17:24:59,137:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:25:02,141:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:25:03,143:ERROR:Could not find tool tracker on any port
+2021-07-29 17:25:03,149:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:25:06,154:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:25:07,156:ERROR:Could not find tool tracker on any port
+2021-07-29 17:25:07,162:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:25:10,166:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:25:11,168:ERROR:Could not find tool tracker on any port
+2021-07-29 17:25:11,175:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:25:14,179:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:25:15,181:ERROR:Could not find tool tracker on any port
+2021-07-29 17:25:15,187:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:25:18,191:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:25:19,193:ERROR:Could not find tool tracker on any port
+2021-07-29 17:25:19,200:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:25:22,204:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:25:23,206:ERROR:Could not find tool tracker on any port
+2021-07-29 17:25:23,212:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:25:26,216:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:25:27,218:ERROR:Could not find tool tracker on any port
+2021-07-29 17:25:27,225:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:25:30,229:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:25:31,231:ERROR:Could not find tool tracker on any port
+2021-07-29 17:25:31,237:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:25:34,241:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:25:35,243:ERROR:Could not find tool tracker on any port
+2021-07-29 17:25:35,250:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:25:38,254:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:25:39,256:ERROR:Could not find tool tracker on any port
+2021-07-29 17:25:39,262:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:25:42,266:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:25:43,268:ERROR:Could not find tool tracker on any port
+2021-07-29 17:25:43,275:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:25:46,279:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:25:47,281:ERROR:Could not find tool tracker on any port
+2021-07-29 17:25:47,288:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:25:50,292:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:25:51,294:ERROR:Could not find tool tracker on any port
+2021-07-29 17:25:51,300:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:27:02,976:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:27:06,982:INFO:Invalid response from port /dev/ttyACM0: 
+2021-07-29 17:27:07,997:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:27:12,002:INFO:Invalid response from port /dev/ttyACM0: 
+2021-07-29 17:27:13,024:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:27:16,029:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:27:17,031:ERROR:Could not find tool tracker on any port
+2021-07-29 17:27:17,038:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:27:20,042:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:27:21,044:ERROR:Could not find tool tracker on any port
+2021-07-29 17:27:21,050:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:27:24,054:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:27:25,056:ERROR:Could not find tool tracker on any port
+2021-07-29 17:27:25,063:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:27:28,066:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:27:29,068:ERROR:Could not find tool tracker on any port
+2021-07-29 17:27:29,074:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:27:45,243:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:27:46,244:ERROR:Could not find tool tracker on any port
+2021-07-29 17:27:46,251:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:27:49,255:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:27:50,257:ERROR:Could not find tool tracker on any port
+2021-07-29 17:27:50,263:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:27:53,268:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:27:54,269:ERROR:Could not find tool tracker on any port
+2021-07-29 17:27:54,276:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:27:57,280:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:27:58,282:ERROR:Could not find tool tracker on any port
+2021-07-29 17:27:58,289:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:28:01,293:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:28:02,295:ERROR:Could not find tool tracker on any port
+2021-07-29 17:28:02,301:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:28:05,305:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:28:06,307:ERROR:Could not find tool tracker on any port
+2021-07-29 17:28:06,314:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:28:09,318:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:28:10,320:ERROR:Could not find tool tracker on any port
+2021-07-29 17:28:10,326:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:28:13,331:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:28:14,333:ERROR:Could not find tool tracker on any port
+2021-07-29 17:28:14,339:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:28:17,342:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:28:18,344:ERROR:Could not find tool tracker on any port
+2021-07-29 17:28:18,349:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:28:21,354:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:28:22,356:ERROR:Could not find tool tracker on any port
+2021-07-29 17:28:22,362:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:28:25,366:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:28:26,368:ERROR:Could not find tool tracker on any port
+2021-07-29 17:28:26,375:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:28:29,379:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:28:30,381:ERROR:Could not find tool tracker on any port
+2021-07-29 17:28:30,387:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:28:33,390:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:28:34,392:ERROR:Could not find tool tracker on any port
+2021-07-29 17:28:34,398:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:28:37,401:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:28:38,402:ERROR:Could not find tool tracker on any port
+2021-07-29 17:28:38,408:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:28:41,412:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:28:42,413:ERROR:Could not find tool tracker on any port
+2021-07-29 17:28:42,419:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:28:45,422:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:28:46,424:ERROR:Could not find tool tracker on any port
+2021-07-29 17:28:46,430:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:28:49,433:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:28:50,434:ERROR:Could not find tool tracker on any port
+2021-07-29 17:28:50,440:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:28:53,443:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:28:54,445:ERROR:Could not find tool tracker on any port
+2021-07-29 17:28:54,451:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:28:57,454:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:28:58,455:ERROR:Could not find tool tracker on any port
+2021-07-29 17:28:58,461:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:29:01,464:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:29:02,466:ERROR:Could not find tool tracker on any port
+2021-07-29 17:29:02,472:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:29:05,475:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:29:06,476:ERROR:Could not find tool tracker on any port
+2021-07-29 17:29:06,482:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:29:09,485:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:29:10,487:ERROR:Could not find tool tracker on any port
+2021-07-29 17:29:10,493:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:29:13,496:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:29:14,498:ERROR:Could not find tool tracker on any port
+2021-07-29 17:29:14,504:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:29:17,507:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:29:18,508:ERROR:Could not find tool tracker on any port
+2021-07-29 17:29:18,514:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:29:21,517:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:29:22,519:ERROR:Could not find tool tracker on any port
+2021-07-29 17:29:22,525:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:29:25,528:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:29:26,529:ERROR:Could not find tool tracker on any port
+2021-07-29 17:29:26,535:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:29:29,538:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:29:30,540:ERROR:Could not find tool tracker on any port
+2021-07-29 17:29:30,546:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:29:33,549:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:29:34,550:ERROR:Could not find tool tracker on any port
+2021-07-29 17:29:34,556:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:29:37,560:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:29:38,561:ERROR:Could not find tool tracker on any port
+2021-07-29 17:29:38,567:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:29:41,570:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:29:42,572:ERROR:Could not find tool tracker on any port
+2021-07-29 17:29:42,578:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:29:45,581:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:29:46,582:ERROR:Could not find tool tracker on any port
+2021-07-29 17:29:46,588:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:29:49,591:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:29:50,593:ERROR:Could not find tool tracker on any port
+2021-07-29 17:29:50,599:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:29:53,602:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:29:54,603:ERROR:Could not find tool tracker on any port
+2021-07-29 17:29:54,609:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:29:57,612:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:29:58,614:ERROR:Could not find tool tracker on any port
+2021-07-29 17:29:58,620:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:30:01,623:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:30:02,624:ERROR:Could not find tool tracker on any port
+2021-07-29 17:30:02,631:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:30:05,633:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:30:06,635:ERROR:Could not find tool tracker on any port
+2021-07-29 17:30:06,641:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:30:09,644:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:30:10,646:ERROR:Could not find tool tracker on any port
+2021-07-29 17:30:10,652:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:30:13,655:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:30:14,656:ERROR:Could not find tool tracker on any port
+2021-07-29 17:30:14,662:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:30:17,665:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:30:18,667:ERROR:Could not find tool tracker on any port
+2021-07-29 17:30:18,673:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:30:21,676:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:30:22,677:ERROR:Could not find tool tracker on any port
+2021-07-29 17:30:22,683:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:30:25,686:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:30:26,688:ERROR:Could not find tool tracker on any port
+2021-07-29 17:30:26,694:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:30:29,697:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:30:30,698:ERROR:Could not find tool tracker on any port
+2021-07-29 17:30:30,704:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:30:33,707:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:30:34,709:ERROR:Could not find tool tracker on any port
+2021-07-29 17:30:34,715:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:30:37,718:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:30:38,719:ERROR:Could not find tool tracker on any port
+2021-07-29 17:30:38,726:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:30:41,729:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:30:42,730:ERROR:Could not find tool tracker on any port
+2021-07-29 17:30:42,736:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:30:45,740:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:30:46,741:ERROR:Could not find tool tracker on any port
+2021-07-29 17:30:46,747:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:30:49,750:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:30:50,751:ERROR:Could not find tool tracker on any port
+2021-07-29 17:30:50,757:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:30:53,760:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:30:54,762:ERROR:Could not find tool tracker on any port
+2021-07-29 17:30:54,768:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:30:57,771:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:30:58,773:ERROR:Could not find tool tracker on any port
+2021-07-29 17:30:58,778:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:31:01,782:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:31:02,783:ERROR:Could not find tool tracker on any port
+2021-07-29 17:31:02,789:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:31:05,792:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:31:06,794:ERROR:Could not find tool tracker on any port
+2021-07-29 17:31:06,800:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:31:09,803:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:31:10,805:ERROR:Could not find tool tracker on any port
+2021-07-29 17:31:10,810:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:31:13,813:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:31:14,815:ERROR:Could not find tool tracker on any port
+2021-07-29 17:31:14,821:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:31:17,824:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:31:18,825:ERROR:Could not find tool tracker on any port
+2021-07-29 17:31:18,831:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:31:21,834:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:31:22,836:ERROR:Could not find tool tracker on any port
+2021-07-29 17:31:22,842:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:31:25,845:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:31:26,847:ERROR:Could not find tool tracker on any port
+2021-07-29 17:31:26,852:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:31:29,856:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:31:30,857:ERROR:Could not find tool tracker on any port
+2021-07-29 17:31:30,863:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:31:33,866:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:31:34,868:ERROR:Could not find tool tracker on any port
+2021-07-29 17:31:34,874:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:31:37,877:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:31:38,878:ERROR:Could not find tool tracker on any port
+2021-07-29 17:31:38,884:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:31:41,887:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:31:42,889:ERROR:Could not find tool tracker on any port
+2021-07-29 17:31:42,895:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:31:45,898:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:31:46,900:ERROR:Could not find tool tracker on any port
+2021-07-29 17:31:46,905:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:31:49,908:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:31:50,910:ERROR:Could not find tool tracker on any port
+2021-07-29 17:31:50,916:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:31:53,919:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:31:54,921:ERROR:Could not find tool tracker on any port
+2021-07-29 17:31:54,926:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:31:57,930:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:31:58,931:ERROR:Could not find tool tracker on any port
+2021-07-29 17:31:58,937:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:32:01,940:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:32:02,942:ERROR:Could not find tool tracker on any port
+2021-07-29 17:32:02,948:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:32:05,951:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:32:06,952:ERROR:Could not find tool tracker on any port
+2021-07-29 17:32:06,958:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:32:09,961:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:32:10,962:ERROR:Could not find tool tracker on any port
+2021-07-29 17:32:10,967:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:32:13,970:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:32:14,971:ERROR:Could not find tool tracker on any port
+2021-07-29 17:32:14,977:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:32:17,980:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:32:18,982:ERROR:Could not find tool tracker on any port
+2021-07-29 17:32:18,988:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:32:21,991:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:32:22,992:ERROR:Could not find tool tracker on any port
+2021-07-29 17:32:23,000:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:32:26,004:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:32:27,005:ERROR:Could not find tool tracker on any port
+2021-07-29 17:32:27,013:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:32:30,016:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:32:31,017:ERROR:Could not find tool tracker on any port
+2021-07-29 17:32:31,024:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:32:34,027:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:32:35,028:ERROR:Could not find tool tracker on any port
+2021-07-29 17:32:35,034:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:32:38,037:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:32:39,038:ERROR:Could not find tool tracker on any port
+2021-07-29 17:32:39,045:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:32:42,048:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:32:43,049:ERROR:Could not find tool tracker on any port
+2021-07-29 17:32:43,055:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:32:46,059:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:32:47,061:ERROR:Could not find tool tracker on any port
+2021-07-29 17:32:47,068:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:32:50,071:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:32:51,072:ERROR:Could not find tool tracker on any port
+2021-07-29 17:32:51,078:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:32:54,081:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:32:55,083:ERROR:Could not find tool tracker on any port
+2021-07-29 17:32:55,089:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:32:58,092:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:32:59,093:ERROR:Could not find tool tracker on any port
+2021-07-29 17:32:59,100:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:33:02,102:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:33:03,104:ERROR:Could not find tool tracker on any port
+2021-07-29 17:33:03,110:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:33:06,113:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:33:07,114:ERROR:Could not find tool tracker on any port
+2021-07-29 17:33:07,121:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:33:10,123:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:33:11,125:ERROR:Could not find tool tracker on any port
+2021-07-29 17:33:11,131:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:33:14,134:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:33:15,136:ERROR:Could not find tool tracker on any port
+2021-07-29 17:33:15,142:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:33:18,145:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:33:19,146:ERROR:Could not find tool tracker on any port
+2021-07-29 17:33:19,152:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:33:22,155:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:33:23,157:ERROR:Could not find tool tracker on any port
+2021-07-29 17:33:23,163:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:33:26,166:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:33:27,167:ERROR:Could not find tool tracker on any port
+2021-07-29 17:33:27,173:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:33:30,177:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:33:31,180:ERROR:Could not find tool tracker on any port
+2021-07-29 17:33:31,188:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:33:34,192:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:33:35,195:ERROR:Could not find tool tracker on any port
+2021-07-29 17:33:35,203:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:33:38,206:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:33:39,208:ERROR:Could not find tool tracker on any port
+2021-07-29 17:33:39,213:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:33:42,216:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:33:43,218:ERROR:Could not find tool tracker on any port
+2021-07-29 17:33:43,224:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:33:46,227:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:33:47,229:ERROR:Could not find tool tracker on any port
+2021-07-29 17:33:47,234:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:33:50,237:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:33:51,239:ERROR:Could not find tool tracker on any port
+2021-07-29 17:33:51,245:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:33:54,248:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:33:55,250:ERROR:Could not find tool tracker on any port
+2021-07-29 17:33:55,258:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:33:58,261:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:33:59,267:ERROR:Could not find tool tracker on any port
+2021-07-29 17:33:59,272:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:34:02,275:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:34:03,277:ERROR:Could not find tool tracker on any port
+2021-07-29 17:34:03,283:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:34:06,286:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:34:07,287:ERROR:Could not find tool tracker on any port
+2021-07-29 17:34:07,293:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:34:10,296:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:34:11,298:ERROR:Could not find tool tracker on any port
+2021-07-29 17:34:11,304:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:34:14,308:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:34:15,310:ERROR:Could not find tool tracker on any port
+2021-07-29 17:34:15,317:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:34:18,320:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:34:19,321:ERROR:Could not find tool tracker on any port
+2021-07-29 17:34:19,327:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:34:22,330:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:34:23,332:ERROR:Could not find tool tracker on any port
+2021-07-29 17:34:23,340:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:34:26,344:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:34:27,346:ERROR:Could not find tool tracker on any port
+2021-07-29 17:34:27,354:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:34:30,358:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:34:31,361:ERROR:Could not find tool tracker on any port
+2021-07-29 17:34:31,369:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:34:34,373:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:34:35,375:ERROR:Could not find tool tracker on any port
+2021-07-29 17:34:35,383:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:34:38,388:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:34:39,390:ERROR:Could not find tool tracker on any port
+2021-07-29 17:34:39,398:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:34:42,399:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:34:43,401:ERROR:Could not find tool tracker on any port
+2021-07-29 17:34:43,409:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:34:46,413:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:34:47,414:ERROR:Could not find tool tracker on any port
+2021-07-29 17:34:47,423:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:34:50,427:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:34:51,430:ERROR:Could not find tool tracker on any port
+2021-07-29 17:34:51,438:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:34:54,441:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:34:55,444:ERROR:Could not find tool tracker on any port
+2021-07-29 17:34:55,450:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:34:58,453:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:34:59,456:ERROR:Could not find tool tracker on any port
+2021-07-29 17:34:59,463:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:35:02,466:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:35:03,467:ERROR:Could not find tool tracker on any port
+2021-07-29 17:35:03,473:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:35:06,476:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:35:07,478:ERROR:Could not find tool tracker on any port
+2021-07-29 17:35:07,484:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:35:10,488:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:35:11,490:ERROR:Could not find tool tracker on any port
+2021-07-29 17:35:11,498:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:35:14,502:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:35:15,504:ERROR:Could not find tool tracker on any port
+2021-07-29 17:35:15,513:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:35:18,517:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:35:19,519:ERROR:Could not find tool tracker on any port
+2021-07-29 17:35:19,528:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:35:22,532:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:35:23,534:ERROR:Could not find tool tracker on any port
+2021-07-29 17:35:23,540:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:35:26,543:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:35:27,545:ERROR:Could not find tool tracker on any port
+2021-07-29 17:35:27,553:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:35:30,556:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:35:31,557:ERROR:Could not find tool tracker on any port
+2021-07-29 17:35:31,563:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:35:34,566:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:35:35,568:ERROR:Could not find tool tracker on any port
+2021-07-29 17:35:35,574:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:35:38,577:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:35:39,578:ERROR:Could not find tool tracker on any port
+2021-07-29 17:35:39,586:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:35:42,590:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:35:43,591:ERROR:Could not find tool tracker on any port
+2021-07-29 17:35:43,597:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:35:46,599:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:35:47,600:ERROR:Could not find tool tracker on any port
+2021-07-29 17:35:47,608:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:35:50,611:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:35:51,613:ERROR:Could not find tool tracker on any port
+2021-07-29 17:35:51,620:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:35:54,623:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:35:55,624:ERROR:Could not find tool tracker on any port
+2021-07-29 17:35:55,630:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:35:58,633:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:35:59,635:ERROR:Could not find tool tracker on any port
+2021-07-29 17:35:59,641:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:36:02,644:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:36:03,645:ERROR:Could not find tool tracker on any port
+2021-07-29 17:36:03,651:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:36:06,654:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:36:07,656:ERROR:Could not find tool tracker on any port
+2021-07-29 17:36:07,662:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:36:10,665:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:36:11,666:ERROR:Could not find tool tracker on any port
+2021-07-29 17:36:11,672:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:36:14,675:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:36:15,677:ERROR:Could not find tool tracker on any port
+2021-07-29 17:36:15,683:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:36:18,686:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:36:19,687:ERROR:Could not find tool tracker on any port
+2021-07-29 17:36:19,693:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:36:22,697:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:36:23,699:ERROR:Could not find tool tracker on any port
+2021-07-29 17:36:23,706:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:36:26,710:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:36:27,711:ERROR:Could not find tool tracker on any port
+2021-07-29 17:36:27,718:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:36:30,721:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:36:31,723:ERROR:Could not find tool tracker on any port
+2021-07-29 17:36:31,731:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:36:34,734:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:36:35,737:ERROR:Could not find tool tracker on any port
+2021-07-29 17:36:35,743:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:36:38,746:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:36:39,748:ERROR:Could not find tool tracker on any port
+2021-07-29 17:36:39,754:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:36:42,757:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:36:43,758:ERROR:Could not find tool tracker on any port
+2021-07-29 17:36:43,764:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:36:46,766:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:36:47,768:ERROR:Could not find tool tracker on any port
+2021-07-29 17:36:47,775:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:36:50,778:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:36:51,779:ERROR:Could not find tool tracker on any port
+2021-07-29 17:36:51,785:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:36:54,788:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:36:55,790:ERROR:Could not find tool tracker on any port
+2021-07-29 17:36:55,796:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:36:58,800:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:36:59,801:ERROR:Could not find tool tracker on any port
+2021-07-29 17:36:59,808:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:37:02,811:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:37:03,813:ERROR:Could not find tool tracker on any port
+2021-07-29 17:37:03,821:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:37:06,825:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:37:07,827:ERROR:Could not find tool tracker on any port
+2021-07-29 17:37:07,835:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:37:10,838:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:37:11,839:ERROR:Could not find tool tracker on any port
+2021-07-29 17:37:11,846:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:37:14,847:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:37:15,849:ERROR:Could not find tool tracker on any port
+2021-07-29 17:37:15,856:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:37:18,860:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:37:19,862:ERROR:Could not find tool tracker on any port
+2021-07-29 17:37:19,867:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:37:22,870:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:37:23,871:ERROR:Could not find tool tracker on any port
+2021-07-29 17:37:23,918:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:37:31,746:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:37:35,750:INFO:Invalid response from port /dev/ttyACM0: 
+2021-07-29 17:37:36,786:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:37:40,791:INFO:Invalid response from port /dev/ttyACM0: 
+2021-07-29 17:37:41,807:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:37:44,811:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:37:45,813:ERROR:Could not find tool tracker on any port
+2021-07-29 17:37:45,818:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:37:48,822:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:37:49,824:ERROR:Could not find tool tracker on any port
+2021-07-29 17:37:49,830:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:37:52,835:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:37:53,837:ERROR:Could not find tool tracker on any port
+2021-07-29 17:37:53,843:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:37:56,847:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:37:57,849:ERROR:Could not find tool tracker on any port
+2021-07-29 17:37:57,856:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:38:14,354:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:38:15,356:ERROR:Could not find tool tracker on any port
+2021-07-29 17:38:15,362:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:38:18,366:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:38:19,368:ERROR:Could not find tool tracker on any port
+2021-07-29 17:38:19,374:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:38:22,378:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:38:23,380:ERROR:Could not find tool tracker on any port
+2021-07-29 17:38:23,387:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:38:26,391:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:38:27,393:ERROR:Could not find tool tracker on any port
+2021-07-29 17:38:27,399:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:38:30,404:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:38:31,405:ERROR:Could not find tool tracker on any port
+2021-07-29 17:38:31,412:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:38:34,416:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:38:35,418:ERROR:Could not find tool tracker on any port
+2021-07-29 17:38:35,424:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:38:38,427:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:38:39,429:ERROR:Could not find tool tracker on any port
+2021-07-29 17:38:39,435:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:38:42,439:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:38:43,441:ERROR:Could not find tool tracker on any port
+2021-07-29 17:38:43,448:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:38:46,452:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:38:47,453:ERROR:Could not find tool tracker on any port
+2021-07-29 17:38:47,460:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:38:50,464:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:38:51,466:ERROR:Could not find tool tracker on any port
+2021-07-29 17:38:51,472:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:38:54,477:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:38:55,478:ERROR:Could not find tool tracker on any port
+2021-07-29 17:38:55,485:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:38:58,489:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:38:59,491:ERROR:Could not find tool tracker on any port
+2021-07-29 17:38:59,497:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:39:02,500:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:39:03,502:ERROR:Could not find tool tracker on any port
+2021-07-29 17:39:03,508:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:39:06,511:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:39:07,512:ERROR:Could not find tool tracker on any port
+2021-07-29 17:39:07,518:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:39:10,521:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:39:11,523:ERROR:Could not find tool tracker on any port
+2021-07-29 17:39:11,529:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:39:14,532:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:39:15,533:ERROR:Could not find tool tracker on any port
+2021-07-29 17:39:15,539:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:39:18,542:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:39:19,544:ERROR:Could not find tool tracker on any port
+2021-07-29 17:39:19,550:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:39:22,553:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:39:23,554:ERROR:Could not find tool tracker on any port
+2021-07-29 17:39:23,561:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:39:26,563:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:39:27,565:ERROR:Could not find tool tracker on any port
+2021-07-29 17:39:27,571:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:39:30,574:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:39:31,575:ERROR:Could not find tool tracker on any port
+2021-07-29 17:39:31,582:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:39:34,585:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:39:35,587:ERROR:Could not find tool tracker on any port
+2021-07-29 17:39:35,592:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:39:38,596:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:39:39,597:ERROR:Could not find tool tracker on any port
+2021-07-29 17:39:39,603:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:39:42,606:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:39:43,607:ERROR:Could not find tool tracker on any port
+2021-07-29 17:39:43,613:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:39:46,617:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:39:47,618:ERROR:Could not find tool tracker on any port
+2021-07-29 17:39:47,624:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:39:50,627:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:39:51,629:ERROR:Could not find tool tracker on any port
+2021-07-29 17:39:51,634:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:39:54,638:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:39:55,640:ERROR:Could not find tool tracker on any port
+2021-07-29 17:39:55,647:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:39:58,650:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:39:59,652:ERROR:Could not find tool tracker on any port
+2021-07-29 17:39:59,657:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:40:02,661:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:40:03,662:ERROR:Could not find tool tracker on any port
+2021-07-29 17:40:03,668:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:40:06,671:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:40:07,673:ERROR:Could not find tool tracker on any port
+2021-07-29 17:40:07,679:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:40:10,682:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:40:11,684:ERROR:Could not find tool tracker on any port
+2021-07-29 17:40:11,689:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:40:14,692:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:40:15,694:ERROR:Could not find tool tracker on any port
+2021-07-29 17:40:15,699:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:40:18,703:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:40:19,704:ERROR:Could not find tool tracker on any port
+2021-07-29 17:40:19,710:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:40:22,713:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:40:23,715:ERROR:Could not find tool tracker on any port
+2021-07-29 17:40:23,721:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:40:26,724:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:40:27,725:ERROR:Could not find tool tracker on any port
+2021-07-29 17:40:27,731:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:40:30,734:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:40:31,737:ERROR:Could not find tool tracker on any port
+2021-07-29 17:40:31,744:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:40:34,747:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:40:35,748:ERROR:Could not find tool tracker on any port
+2021-07-29 17:40:35,754:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:40:38,758:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:40:39,759:ERROR:Could not find tool tracker on any port
+2021-07-29 17:40:39,765:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:40:42,768:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:40:43,770:ERROR:Could not find tool tracker on any port
+2021-07-29 17:40:43,775:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:40:46,779:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:40:47,780:ERROR:Could not find tool tracker on any port
+2021-07-29 17:40:47,786:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:40:50,789:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:40:51,791:ERROR:Could not find tool tracker on any port
+2021-07-29 17:40:51,796:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:40:54,800:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:40:55,801:ERROR:Could not find tool tracker on any port
+2021-07-29 17:40:55,807:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:40:58,810:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:40:59,812:ERROR:Could not find tool tracker on any port
+2021-07-29 17:40:59,817:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:41:02,821:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:41:03,822:ERROR:Could not find tool tracker on any port
+2021-07-29 17:41:03,828:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:41:06,831:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:41:07,833:ERROR:Could not find tool tracker on any port
+2021-07-29 17:41:07,838:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:41:10,842:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:41:11,843:ERROR:Could not find tool tracker on any port
+2021-07-29 17:41:11,849:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:41:14,852:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:41:15,854:ERROR:Could not find tool tracker on any port
+2021-07-29 17:41:15,860:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:41:18,863:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:41:19,864:ERROR:Could not find tool tracker on any port
+2021-07-29 17:41:19,872:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:41:22,875:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:41:23,876:ERROR:Could not find tool tracker on any port
+2021-07-29 17:41:23,883:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:41:26,886:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:41:27,887:ERROR:Could not find tool tracker on any port
+2021-07-29 17:41:27,893:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:41:30,897:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:41:31,898:ERROR:Could not find tool tracker on any port
+2021-07-29 17:41:31,904:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:41:34,907:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:41:35,908:ERROR:Could not find tool tracker on any port
+2021-07-29 17:41:35,914:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:41:38,918:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:41:39,919:ERROR:Could not find tool tracker on any port
+2021-07-29 17:41:39,925:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:41:42,928:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:41:43,929:ERROR:Could not find tool tracker on any port
+2021-07-29 17:41:43,935:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:41:46,938:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:41:47,940:ERROR:Could not find tool tracker on any port
+2021-07-29 17:41:47,946:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:41:50,949:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:41:51,951:ERROR:Could not find tool tracker on any port
+2021-07-29 17:41:51,959:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:41:54,961:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:41:55,964:ERROR:Could not find tool tracker on any port
+2021-07-29 17:41:55,969:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:41:58,972:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:41:59,973:ERROR:Could not find tool tracker on any port
+2021-07-29 17:41:59,980:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:42:02,983:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:42:03,984:ERROR:Could not find tool tracker on any port
+2021-07-29 17:42:03,990:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:42:06,993:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:42:07,995:ERROR:Could not find tool tracker on any port
+2021-07-29 17:42:08,001:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:42:11,004:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:42:12,007:ERROR:Could not find tool tracker on any port
+2021-07-29 17:42:12,014:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:42:15,017:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:42:16,018:ERROR:Could not find tool tracker on any port
+2021-07-29 17:42:16,024:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:42:19,027:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:42:20,029:ERROR:Could not find tool tracker on any port
+2021-07-29 17:42:20,035:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:42:23,038:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:42:24,040:ERROR:Could not find tool tracker on any port
+2021-07-29 17:42:24,045:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:42:27,049:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:42:28,050:ERROR:Could not find tool tracker on any port
+2021-07-29 17:42:28,056:INFO:Connected to COM port /dev/ttyACM0
+2021-07-29 17:42:31,059:ERROR:Could not open port /dev/ttyACM0
+2021-07-29 17:42:32,061:ERROR:Could not find tool tracker on any port
+2021-07-29 17:42:32,067:INFO:Connected to COM port /dev/ttyACM0
