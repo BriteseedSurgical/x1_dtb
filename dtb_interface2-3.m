@@ -81,6 +81,14 @@ y_text = [];    % Initialize Y position for text
 z_text = [];    % Initialize Z position for text
 fig_text = {};  % Cell array for text
 
+%initializing variables to keep track of positions
+fr_xpos = 0;
+fr_ypos = 0;
+fr_zpos = 0;
+all_x = 0;
+all_y = 0;
+all_z = 0;
+
 % Iterate through all actions/rows
 for i = 1:num_rows
     data = handles.cmd_list{i,2};   % Command data is stored in 2nd column
@@ -93,12 +101,26 @@ for i = 1:num_rows
             x_pos = [x_pos; data.x];
             y_pos = [y_pos; data.y];
             z_pos = [z_pos; data.z];
+            % updating positions once move to button clicked
+            fr_xpos = data.x;
+            fr_ypos = data.y;
+            fr_zpos = data.z;
+            all_x = [all_x,data.x];
+            all_y = [all_y,data.y];
+            all_z = [all_z,data.z];
         case 'INC'
             string = sprintf('Increment by X%.2f Y%.2f Z%.2f at %.2f mm/s', ...
                 data.x, data.y, data.z, data.f);
             x_pos = [x_pos; x_pos(end)+data.x];
             y_pos = [y_pos; y_pos(end)+data.y];
             z_pos = [z_pos; z_pos(end)+data.z];
+            % updating positions once inc by button clicked
+            all_x = [all_x,all_x(end)+data.x];
+            all_y = [all_y,all_y(end)+data.y];
+            all_z = [all_z,all_z(end)+data.z];
+            fr_xpos = all_x(end);
+            fr_ypos = all_y(end);
+            fr_zpos = all_z(end);
         case 'WAIT'
             string = sprintf('Wait for %.2f s', data.duration);
         case 'START_SAVE'
@@ -111,6 +133,15 @@ for i = 1:num_rows
             string = 'Zero DTB at current location';
         case 'WAITUSER'
             string = 'Wait for user (Press "Continue" to resume)';
+    end
+    
+    % cross checking updated position with kill swtich location & letting user know if they are sending sample into kill switch
+    if fr_xpos <= -3
+        errordlg('Error! Command brings samples out of bounds on x value, please adjust command accordingly');
+    elseif fr_ypos >= 3
+        errordlg('Error! Command brings samples out of bounds on y value, please adjust command accordingly');
+    elseif fr_zpos <= -3
+        errordlg('Error! Command brings samples out of bounds on x value, please adjust command accordingly');
     end
     
     % Add action names to this if statement for text on figure:
@@ -246,7 +277,7 @@ selection = contents{get(hObject,'Value')};
 % the dropdown list elements, indexed in order. 
 switch selection
     case contents{1} % Move to
-        coords = inputdlg({'X (mm)', 'Y (mm)', 'Z (mm)', 'Speed (mm/s)'}, 'Move to...');
+        coords = inputdlg({'X (mm)', 'Y (mm)', 'Z (mm)', 'Speed (mm/s)'}, 'Move to...',[1,15],{'40','-62','22','270'}); % intilializing move to location
         try
             coords = cellfun(@str2double, coords);
         catch
@@ -264,7 +295,7 @@ switch selection
         data.f = coords(4);
         add_cmd('MOVETO', data, hObject, handles);
     case contents{2} % Increment by
-        coords = inputdlg({'X (mm)', 'Y (mm)', 'Z (mm)', 'Speed (mm/s)'}, 'Move to...');
+        coords = inputdlg({'X (mm)', 'Y (mm)', 'Z (mm)', 'Speed (mm/s)'}, 'Move to...',[1,15],{'0','0','0','270'}); % initializing increment movements
         try
             coords = cellfun(@str2double, coords);
         catch
