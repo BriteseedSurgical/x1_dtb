@@ -39,6 +39,7 @@ def query(dtb_connected, query_request, query_received):
 """
 def task_manager(dtb_connected, tasks, command_queue, movement_event, 
                  save_flag, abort_flag, job_hold, job_active):
+    command_queue.queue.clear() ## addition to clear command queue and not save past commands
     logger.info("Starting task manager...")
     job_active.set()
     counter = 1
@@ -52,7 +53,7 @@ def task_manager(dtb_connected, tasks, command_queue, movement_event,
             logger.info("Terminating tasks: DTB disconnected")
             break
 
-        job_hold.wait()
+        #job_hold.wait()# code was commented out as it holds function to stop full completion of for loop
 
         logger.info("Running command {} ({} of {})".format(command, counter, num_cmds))
         counter = counter + 1
@@ -67,8 +68,8 @@ def task_manager(dtb_connected, tasks, command_queue, movement_event,
             movement_event.clear()
             command_queue.put("G91 G1 X{} Y{} Z{} F{}".format(
                 field['x'], field['y'], field['z'], field['f']))
-            command_queue.put("G4P0")
-            movement_event.wait()
+            #command_queue.put("G4P0")## was commented out as code causes pauses sent to G-code in arduino board
+            #movement_event.wait()## was commented out as code forces program to wait from feedback by arduino causing delay in system
         elif command == "WAIT":
             time.sleep(field['duration'])
         elif command == "WAITUSER":
