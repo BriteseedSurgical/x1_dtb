@@ -39,11 +39,18 @@ def query(dtb_connected, query_request, query_received):
 """
 def task_manager(dtb_connected, tasks, command_queue, movement_event, 
                  save_flag, abort_flag, job_hold, job_active):
+    command_queue.queue.clear() #gzel added to ensure that command queue is cleared before running DTB to ensure no random commands are run
     logger.info("Starting task manager...")
+    
     job_active.set()
+    
     counter = 1
+    
     num_cmds = len(tasks['commands'])
+    
     for command, field in zip(tasks['commands'], tasks['fields']):
+        logger.info("Starting for loop")
+        
         if abort_flag.is_set():
             logger.info("Code in abort state, terminating tasks now.")
             break
@@ -52,23 +59,30 @@ def task_manager(dtb_connected, tasks, command_queue, movement_event,
             logger.info("Terminating tasks: DTB disconnected")
             break
 
-        job_hold.wait()
-
+        #job_hold.wait() #if job hold is waiting DTB will not comeplete full command queue
+        
+        #command, counter, num_cmds are all correct in thier varibles
         logger.info("Running command {} ({} of {})".format(command, counter, num_cmds))
-        counter = counter + 1
-
+        counter = counter +1
+        
+        job_hold.clear()
+        
+        logger.info("Starting task if statement")
+        
         if command == "MOVETO":
             movement_event.clear()
             command_queue.put("G90 G1 X{} Y{} Z{} F{}".format(
                 field['x'], field['y'], field['z'], field['f']))
             command_queue.put("G4P0")
             movement_event.wait()
+            logger.info("MOVEMENT END")
         elif command == "INC":
-            movement_event.clear()
+            movement_event.clear()    
             command_queue.put("G91 G1 X{} Y{} Z{} F{}".format(
                 field['x'], field['y'], field['z'], field['f']))
-            command_queue.put("G4P0")
-            movement_event.wait()
+            #command_queue.put("G4P0") # code maked DTB stop in between each run
+            #movement_event.wait() # code makes DTb stop in between each run
+            logger.info("INC END")
         elif command == "WAIT":
             time.sleep(field['duration'])
         elif command == "WAITUSER":
@@ -80,7 +94,11 @@ def task_manager(dtb_connected, tasks, command_queue, movement_event,
         elif command == "ZERO":
             command_queue.put("G10 L20 P2 X0Y0Z0")
             command_queue.put("G55")
+        else:
+            _ = 0
+        #num_tracker = num_tracker-1
     job_active.clear()
+    #command_queue.queue.clear()
     logger.info("Tasks completed")
 
 """
@@ -100,6 +118,9 @@ def udp_listener(dtb_connected, PORT, command_queue, movement_event, save_flag,
         logger.error("Could not bind to UDP port, make sure port is not being used")
         
     command_dict = {"commands":[], "fields":[]}
+    #test code
+    #print(command_dict)
+    #end test code
     while dtb_connected.is_set():
         try:
             data, addr = sock.recvfrom(65535)
@@ -140,6 +161,10 @@ def udp_listener(dtb_connected, PORT, command_queue, movement_event, save_flag,
                 logger.info("Received data from {}".format(addr[0]))
                 try:
                     commands = json.loads(data.decode())
+                    #correct printing of JSON files (issue is not is udp_listenter)
+                    #test code
+                    #print(commands)
+                    #end test code
                     if set(command_dict.keys()) == set(commands.keys()):
                         job_hold.set()
 
@@ -231,7 +256,7 @@ while True:
         
     """------------------------ COM PORT CONFIGURATION SUBROUTINE -----------------------"""
     while not dtb_connected.is_set():
-        dtb_dev = "/dev/ttyACM1"
+        dtb_dev = "/dev/ttyACM0"
         try:
             dtb_port = serial.Serial(port=dtb_dev, baudrate=115200, write_timeout=1.0)    # Set parameters for COM port
             if dtb_port.isOpen():           # If the port is already open,
@@ -277,9 +302,12 @@ while True:
 
     while True:
         # Check if the command queue has anything in it
+        logger.info("main FCN if while true start")
         if expected_acks == 0 or feed_hold.is_set():
+
             try:
                 command = command_queue.get(block=False)    # Get the first command in the queue
+                logger.info("command appended")
                 command = command + '\n'                    # Append a newline onto the command
 
                 if "$J" in command and (jog_hold.is_set() or feed_hold.is_set()):
@@ -288,7 +316,7 @@ while True:
                     logger.info("Movement commands not allowed while feed hold is set: {}".format(command))
                 else:
                     dtb_port.write(command.encode('utf-8'))     # Write the command to the DTB
-
+                    logger.info("written to DTB")
                     if command.strip() == '~':		# If the command is a cycle start/resume command
                         dtb_port.write(0x18)			# Soft reset, needed to restart DTB after limit switch hit
                         with command_queue.mutex:
